@@ -15,6 +15,14 @@
   set expandtab    "Преобразует указанное чило пробелов в tabstop в символ табуляции
   set autoindent   "Включить автоотступ
 
+"----------
+" Кодировка
+"----------
+
+  set fileencoding=utf-8
+  set encoding=utf-8
+  set termencoding=utf-8
+
 "------
 " Цвета
 "------
